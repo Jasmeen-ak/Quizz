@@ -21,6 +21,6 @@ This is a simple HTML, CSS, and JavaScript-based quiz website. The quiz fetches 
 - This project uses the Open Trivia Database API to fetch multiple-choice questions. 
 ## Installation
 
-Clone the repository or download the ZIP file from https://github.com/AnushakaPandey03/quiz
+Clone the repository or download the ZIP file from https://github.com/Jasmeen-ak/quiz
 
     
